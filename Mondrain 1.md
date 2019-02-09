@@ -3,8 +3,8 @@ function setup() {
 }
 
 function draw() {
-  var lineX1 =50;
-  var lineX2 =200;
+  var lineX1 =20;
+  var lineX2 =150;
   var lineX3 =240;
   var lineX4 =280;
   var lineX5 =350;
